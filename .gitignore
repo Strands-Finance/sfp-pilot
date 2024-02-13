@@ -1,0 +1,17 @@
+node_modules
+.env*
+.DS_Store
+.secret
+.vscode
+deployments/*
+
+#Hardhat config
+cache
+artifacts
+typechain
+typechain-types
+dist/
+
+# hardhat coverage
+coverage
+coverage.json
